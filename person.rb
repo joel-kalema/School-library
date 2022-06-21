@@ -27,6 +27,5 @@ class Person
       false
     end
   end 
-
 end
 
