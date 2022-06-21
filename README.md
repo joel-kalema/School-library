@@ -8,7 +8,7 @@
 
 ## Built With
 
-<a href="https://www.ruby-lang.org/en/documentation/quickstart/"> <img
+<a href="[https://www.ruby-lang.org/en/documentation/quickstart/](https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png)"> <img
       src="(https://user-images.githubusercontent.com/57408419/174897962-b9ac2f69-bec2-415e-a137-e54fdc7adba0.png"
       alt="react" width="50" height="50" /> </a>
 
