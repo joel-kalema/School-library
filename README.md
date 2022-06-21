@@ -8,10 +8,7 @@
 
 ## Built With
 
-<a href="#"> <img
-      src="[(https://user-images.githubusercontent.com/57408419/174897962-b9ac2f69-bec2-415e-a137-e54fdc7adba0.png](https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png)"
-      alt="react" width="50" height="50" /> </a>
-
+- Ruby
 - IRB
 - linter: Rubocop
 
