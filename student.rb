@@ -1,7 +1,7 @@
-require "./person.rb"
+require './person'
 
 class Student < Person
-  def initialize(name = 'Unknown', age, parent_permission = true, classroom)
+  def initialize(age, classroom, name: 'Unknown', parent_permission: true)
     super(age, name, parent_permission)
     @classroom = classroom
   end
