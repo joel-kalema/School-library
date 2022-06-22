@@ -32,7 +32,7 @@ Style/DefWithParentheses:
 Style/FrozenStringLiteralComment:
   EnforcedStyle: never
 Style/EndOfLine:
-  EnforcedStyle: lf
+  EnforcedStyle: crlf
 
 Layout/HashAlignment:
   EnforcedColonStyle: key
