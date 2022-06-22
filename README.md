@@ -1,60 +1,44 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# OOP-school-library
 
-> Description the project.
+> This project, I built a school library app.
 
+![dsc_79](https://user-images.githubusercontent.com/57408419/174899192-30bd222c-5a0d-4c50-bbf5-775e94c1857e.jpg)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- IRB
+- linter: Rubocop
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+```bash
+  git clone git@github.com:joel-kalema/my_Enumeration.git
+  cd into the folder by typing:
+  - cd person.rb
+  - cd student.rb
+  - cd teacher.rb
+```
 
+open your code editor and run
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```bash
+  bundle install
+```
 
 ## Authors
 
-👤 **Author1**
+#### :bust_in_silhouette: Joel kalema
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [joel-kalema](https://github.com/joel-kalema)
+- [LinkedIn](https://www.linkedin.com/in/joel-kalema-30518a230/)
+- [Twitter](https://twitter.com/JoelJklm)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+:heavy_plus_sign: Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
@@ -64,9 +48,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
 
 ## 📝 License
 
