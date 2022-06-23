@@ -16,10 +16,7 @@
 
 ```bash
   git clone git@github.com:joel-kalema/my_Enumeration.git
-  cd into the folder by typing:
-  - cd person.rb
-  - cd student.rb
-  - cd teacher.rb
+  cd into the folders
 ```
 
 open your code editor and run
