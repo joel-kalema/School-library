@@ -7,7 +7,7 @@ def main
   app.start
 end
 
-def selecting
+def selecting # rubocop:todo Metrics/CyclomaticComplexity
   case choices
   when '1'
     books_list

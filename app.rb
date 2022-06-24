@@ -92,7 +92,7 @@ class App
     end
   end
 
-  def new_rental
+  def new_rental # rubocop:todo Metrics/MethodLength
     if @books.empty? && @people.empty?
       puts 'No books and People available'
     else
@@ -128,7 +128,9 @@ class App
     else
       puts 'Here are your records: '
       rental.each_with_index do |rcrd, index|
+        # rubocop:todo Layout/LineLength
         puts "#{index + 1}| Date: #{rcrd.date} | Borrower: #{rcrd.person.name} | Status: #{rcrd.person.class} | Borrowed book: \"#{rcrd.book.title}\" by #{rcrd.book.author}"
+        # rubocop:enable Layout/LineLength
       end
     end
   end
