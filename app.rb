@@ -6,6 +6,8 @@ require './rental'
 require './student'
 require './teacher'
 
+require'pry'
+
 class App
   def initialize
     @books = []
@@ -27,6 +29,9 @@ class App
   end
 
   def peoples_list
+
+    binding.pry
+
     puts 'No added people!! Please Add new person.' if @people.empty?
     puts "#{@people.length} peoples added."
 
