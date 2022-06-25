@@ -10,7 +10,7 @@
 
 - Ruby
 - IRB
-- linter: Rubocop
+- linter: Rubocop, Pry
 
 ## Getting Started
 
