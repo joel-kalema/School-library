@@ -9,4 +9,3 @@ class Rental
     book.add_rental(self)
   end
 end
-
