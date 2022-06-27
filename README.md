@@ -6,7 +6,7 @@
 
 ![dsc_79](https://user-images.githubusercontent.com/57408419/174899192-30bd222c-5a0d-4c50-bbf5-775e94c1857e.jpg)
 
-## Built With
+## Built With.
 
 - Ruby
 - IRB
